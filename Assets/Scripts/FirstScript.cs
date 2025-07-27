@@ -7,7 +7,7 @@ public class FirstScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("First Script created.");
+        Debug.Log("First Script created. This title would make conflict.(conflicted)");
     }
 
     // Update is called once per frame
